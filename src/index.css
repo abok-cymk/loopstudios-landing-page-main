@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@import "tailwindcss";
+
+@theme {
+    --color-grey-200: hsl(0, 0%, 85%);
+    --text-fs-15: 15px;
+    --font-alata: "Alata", sans-serif;
+    --font-josefinSans: "Josefin Sans", sans-serif;
+    --font-weight-alata-400: 400;
+    --font-weight-j-500: 500;
+}
