@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Loopstudios landing page challenge on Frontend Mentor](https://github.com/)
-- Live Site URL: [Loopstudios landing page challenge on Frontend Mentor live url](https://your-live-site-url.com)
+- Solution URL: [Loopstudios landing page challenge on Frontend Mentor](https://github.com/abok-cymk/loopstudios-landing-page-main)
+- Live Site URL: [Loopstudios landing page challenge on Frontend Mentor live url](https://loopstudios-landing-page-main-alpha-pearl.vercel.app/)
 
 ## My process
 

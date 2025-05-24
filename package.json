@@ -11,6 +11,7 @@
   "type": "commonjs",
   "dependencies": {
     "@tailwindcss/cli": "^4.1.7",
+    "loopstudios-landing-page-main": "file:",
     "tailwindcss": "^4.1.7"
   }
 }
